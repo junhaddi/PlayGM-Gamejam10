@@ -1,0 +1,1 @@
+global.point += 100;

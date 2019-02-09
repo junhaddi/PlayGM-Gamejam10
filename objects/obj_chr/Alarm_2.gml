@@ -1,0 +1,2 @@
+// Reset shield
+delayTime = delayTimeMin;

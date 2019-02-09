@@ -1,0 +1,1 @@
+image_angle += angle_dir * 10;

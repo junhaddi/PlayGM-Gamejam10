@@ -1,0 +1,1 @@
+scr_create_random(obj_ball);

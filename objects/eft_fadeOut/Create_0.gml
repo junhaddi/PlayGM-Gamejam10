@@ -1,0 +1,1 @@
+fadeOutAlpha = 1;

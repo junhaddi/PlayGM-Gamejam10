@@ -1,0 +1,1 @@
+effect_create_below(choose(ef_ellipse, ef_explosion, ef_firework, ef_flare, ef_ring, ef_smoke, ef_spark), x, y, 1, rainbow_random());

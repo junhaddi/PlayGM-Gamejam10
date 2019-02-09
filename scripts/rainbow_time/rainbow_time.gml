@@ -1,0 +1,1 @@
+return make_color_hsv(get_timer() % 255 / 10, 255, 255);
