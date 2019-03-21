@@ -1,2 +1,4 @@
 # PlayGM-Gamejam10
-PlayGM Gamejam 10
+[주말해커톤] 똥피하기디럭스
+
+https://junhaddi.itch.io/avoid-poo-delux
